@@ -1,0 +1,7 @@
+{
+  "name": "wiener-linien-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
